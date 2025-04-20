@@ -35,7 +35,7 @@ This version was used to:
 
 - Learn the differences between Tailwind v3 and v4+
 - Understand PostCSS plugin behavior
-- Document the debugging process as a living dev journal (see `docs/` or [Google Doc](https://docs.google.com/document/d/1QLTRPBoScy39LeF9bZNqQIbZhqIbEdw0i6gpzzk_efA/edit?usp=sharing))
+- Document the debugging process as a living dev journal (see [Google Doc](https://docs.google.com/document/d/1QLTRPBoScy39LeF9bZNqQIbZhqIbEdw0i6gpzzk_efA/edit?usp=sharing))
 
 ---
 
