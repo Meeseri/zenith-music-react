@@ -1,4 +1,4 @@
-# 🎧 Zenith Music (Early Dev Build)
+#  Zenith Music (Early Dev Build)
 
 > *“The neon runs deep, but the bugs run deeper.”*
 
@@ -8,7 +8,7 @@ This repo contains the original development version before it was fully stabiliz
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - [x] React
 - [x] Vite
@@ -18,7 +18,7 @@ This repo contains the original development version before it was fully stabiliz
 
 ---
 
-## 💣 Known Issues in This Version
+##  Known Issues in This Version
 
 - Tailwind utilities like `bg-black` and `bg-cyber` not applying due to plugin issues
 - `postcss.config.js` not properly wired at first
@@ -29,7 +29,7 @@ This repo contains the original development version before it was fully stabiliz
 
 ---
 
-## 📚 Dev Notes
+##  Dev Notes
 
 This version was used to:
 
@@ -39,7 +39,7 @@ This version was used to:
 
 ---
 
-## 🧪 To Get Running (if you dare)
+##  To Get Running (if you dare)
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/zenith-music.git
