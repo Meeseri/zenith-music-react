@@ -1,8 +1,6 @@
 #  Zenith Music (Early Dev Build)
 
-> *“The neon runs deep, but the bugs run deeper.”*
-
-Zenith Music is a cyberpunk-themed music dashboard app built with **React**, **Vite**, and **Tailwind CSS** — now in its glorious, slightly broken alpha state.
+Zenith Music is a music dashboard app built with **React**, **Vite**, and **Tailwind CSS** — now in its glorious, slightly broken alpha state.
 
 This repo contains the original development version before it was fully stabilized. Expect broken Tailwind configs, haunted PostCSS setups, and a lot of learning.
 
